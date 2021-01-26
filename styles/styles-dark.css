@@ -217,7 +217,7 @@ p.image-attachment span {
 #messagestack .loading,
 html.layout-small .popover-header,
 html.layout-phone .popover-header {
-	background-color: var(--new-black-1);
+	background-color: #0a0b11;
 }
 .ui-dialog .ui-dialog-buttonpane,
 #layout > div > .footer {
@@ -370,7 +370,7 @@ p.image-attachment {
 	border-bottom: 1px solid var(--new-black-4);
 }
 .popover {
-	background-color: var(--new-black-2);
+	background-color: #0f111a;
 	box-shadow: none;
 	border-color: var(--new-black-4);
 }
