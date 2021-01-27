@@ -19,6 +19,15 @@
 
 /* GLOBAL STYLES */
 
+::-webkit-scrollbar {
+	width: 12px;
+	background: #0c0e15;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+	background: #0f111a;
+  }
+
 body {
 	color: var(--new-white-1);
 	background-color: var(--new-black-3);
