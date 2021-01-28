@@ -19,6 +19,8 @@
 
 /* GLOBAL STYLES */
 
+/* For WebKit based browsers */
+
 ::-webkit-scrollbar {
 	width: 12px;
 	background: #0c0e15;
@@ -28,6 +30,14 @@
 	border-radius: 15px;
 	background: #0f111a;
   }
+
+/* For Firefox */
+  
+.scroller {
+	overflow-y: scroll;
+	scrollbar-color: #0f111a #0c0e15;
+	scrollbar-width: auto;
+}
 
 body {
 	color: var(--new-white-1);
