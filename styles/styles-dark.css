@@ -378,7 +378,7 @@ p.image-attachment {
 .form-control,
 .input-group-text {
 	color: var(--new-white-1);
-	background-color: var(--new-black-5);
+	background-color: #0f111a;
 	border: 1px solid var(--new-black-4);
 }
 
