@@ -1,9 +1,9 @@
 {
-    "name": "tborychowski/elastic-dark",
+    "name": "courvix/courvix-dark",
     "type": "roundcube-plugin",
     "keywords": [ "skin", "dark" ],
-    "description": "Elastic-dark skin for Roundcube",
-    "homepage": "https://github.com/tborychowski/elastic-dark",
+    "description": "Courvix Dark",
+    "homepage": "https://github.com/courvix/courvix-dark",
     "license": "GPL-3.0-or-later",
     "extra": {
         "roundcube": {
