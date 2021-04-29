@@ -267,6 +267,14 @@ background-color: #949494
 
 /* For WebKit based browsers */
 
+::-webkit-scrollbar-track {
+    background: #0a0b11;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #0063cc;
+}
+
 ::-webkit-scrollbar {
 	width: 12px;
 	background: #0c0e15;
