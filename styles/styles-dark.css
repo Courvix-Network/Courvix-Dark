@@ -285,6 +285,15 @@ background-color: #949494
 	background: #0f111a;
   }
 
+.blockquote {
+	border-left: 2px solid #0063cc;
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
 	[type="checkbox"],
 	[type="radio"] {
 	-webkit-box-sizing: border-box;
@@ -1086,7 +1095,7 @@ select:-moz-focusring {
 	background: var(--new-black-3);
 }
 .mce-content-body blockquote {
-	border-left: 2px solid var(--new-blue-3);
+	border-left: 2px solid #0063cc;
 }
 .mce-menu-item.mce-menu-item-preview.mce-active {
 	background: var(--new-blue-2);
@@ -1118,7 +1127,7 @@ select:-moz-focusring {
 .message-htmlpart blockquote {
 	color: var(--new-white-1);
 	background-color: var(--new-black-5);
-	border-left: 2px solid var(--new-blue-1);
+	border-left: 2px solid #0063cc;
 	border-right: 0;
 	padding: .6em .8em;
 }
